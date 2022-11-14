@@ -1,2 +1,2 @@
 # soup-bot
-don't look at my code
+also probably broken due to api updates whatever
